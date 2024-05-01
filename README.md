@@ -5,12 +5,12 @@ A passionate junior front-end developer with back-end knowledge. I enjoy working
 
 I have a big passion for design and I find programming a great way to combine both the logical, problem-solving part of the brain with the left hemisphere that is more about creativity, imagination and innovation.  
 
-## Working on ##
-I am currently working on my own porfolio, finishing up projects I created in the web development bootcamp I took as well as embarking on my first solo website, which I am so excited about! 
+## Working on 👩🏼‍💻 ##
+I am currently working on my own porfolio, finishing up projects I already created as well as embarking on my first solo after-bootcamp website, which I am so excited about! I care about creating a positive impact in the world and this website is all about that. I can't wait for you to see it! 
 
 On top of that, I am looking forward to continuing expanding my knowledge on React and JavaScript and adventuring in the world of TypeScript.
 
-## Skills ##
+## Skills 🛠 ##
 * **Front-end development:** HTML5, CSS3 (including Flexbox and CSS Grid), SASS, responsive design, JavaScript and third-party web services (APIs), React and the creation of Single Page Applications (SPAs).
 * **Git:** version control.
 * **Back-end development:** RESTful APIs, Node JS, Express.
