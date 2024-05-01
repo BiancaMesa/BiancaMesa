@@ -18,4 +18,4 @@ I have a big passion for design and I find programming a great way to combine bo
 
 
 ## Connect ##
-[Linkedin](https://www.linkedin.com/in/bianca-mesa/)
+[![Linkedin](https://www.linkedin.com/in/bianca-mesa/)
