@@ -8,4 +8,4 @@ I also have a big passion for design and I find programming a great way to combi
 I'm so keen to keep diving into the IT world and gain more and more knowledge.  
 
 ## Connect ##
-[Linkedin(https://www.linkedin.com/in/bianca-mesa/)
+[Linkedin](https://www.linkedin.com/in/bianca-mesa/)
