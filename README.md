@@ -9,6 +9,12 @@ I have a big passion for design and I find programming a great way to combine bo
 
 
 ## Skills ##
+* **Front-end development:** HTML5, CSS3 (including Flexbox and CSS Grid), SASS, responsive design, JavaScript and third-party web services (APIs), React and the creation of Single Page Applications (SPAs).
+* **Git:** version control.
+* **Back-end development:** RESTful APIs, Node JS, Express.
+* **Databases:** SQL, MongoDB.
+* **Tools:** GitHub, VS Code, Terminal, Zeplin, Render, FreeDB.
+* Agile philosophy & Scrum framework.
 
 
 ## Connect ##
