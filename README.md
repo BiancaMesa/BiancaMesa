@@ -19,5 +19,5 @@ On top of that, I am looking forward to continuing expanding my knowledge on Rea
 * **Agile** philosophy & **Scrum** framework.
 
 
-## Connect ##
+## Connect 🌏 ##
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-mesa/)
