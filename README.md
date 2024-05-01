@@ -13,7 +13,7 @@ I have a big passion for design and I find programming a great way to combine bo
 * **Git:** version control.
 * **Back-end development:** RESTful APIs, Node JS, Express.
 * **Databases:** SQL, MongoDB.
-* **Tools:** GitHub, VS Code, Terminal, Zeplin, Render, FreeDB.
+* **Tools:** GitHub, VS Code, Terminal, Zeplin, Render, FreeDB, Slack.
 * Agile philosophy & Scrum framework.
 
 
