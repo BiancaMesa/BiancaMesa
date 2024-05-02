@@ -10,14 +10,9 @@ I am currently working on my own porfolio, finishing up projects I already creat
 
 On top of that, I am looking forward to continuing expanding my knowledge on React and JavaScript and adventuring in the world of TypeScript.
 
-## Skills 🛠 ##
-* **Front-end development:** HTML5, CSS3 (including Flexbox and CSS Grid), SASS, responsive design, JavaScript and third-party web services (APIs), React and the creation of Single Page Applications (SPAs).
-* **Git:** version control.
-* **Back-end development:** RESTful APIs, Node JS, Express.
-* **Databases:** SQL, MongoDB.
-* **Tools:** GitHub, VS Code, Terminal, Zeplin, Render, FreeDB, Slack.
-* **Agile** philosophy & **Scrum** framework.
-
+## Technologies and tools 🚀 ##
+https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width=50px/> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width=50px/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=60x/>
 
 ## Connect 🌏 ##
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-mesa/)
