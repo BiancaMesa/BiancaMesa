@@ -8,9 +8,9 @@
 🔭 I am currently looking for a Web Developer position in a company that is building tech that is meaningful and impactful in collaborative thriving teams. 
 
 ## Working on 👩🏼‍💻 ##
-I am currently working on my own porfolio, finishing up projects I already created as well as embarking on my first solo after-bootcamp website, which I am so excited about! I care about creating a positive impact in the world and this website is all about that. I can't wait for you to see it! 
+🏄🏼‍♀️ I am currently working on my own porfolio, finishing up projects I already created as well as embarking on my first solo after-bootcamp website, which I am so excited about! I care about creating a positive impact in the world and this website is all about that. I can't wait for you to see it! 
 
-On top of that, I am looking forward to continuing expanding my knowledge on React and JavaScript and adventuring in the world of a new programming language.
+🌌 On top of that, I am looking forward to continuing expanding my knowledge on React and JavaScript and adventuring in the world of a new programming language.
 
 ## Technologies and tools 🚀 ## 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50px/>&nbsp;&nbsp;
