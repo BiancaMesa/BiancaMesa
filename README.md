@@ -1,11 +1,11 @@
 # Hi, I'm Bianca 👋 # 
 
-## About me 💫 ##
-A passionate junior front-end developer with back-end knowledge. I enjoy working in collaborative and innovative teams where I can continue learning and growing. I am creative and naturally curious. I love English and incorporate it into many aspects of my life. I am dedicated and bring quality to my work. Additionally, I have cultivated serenity and patience because experience has taught me that progress is achieved step by step. I am constantly seeking to improve myself and contribute to every project I undertake in a meaningful way.
+## About me ##
+⚡️ A passionate junior front-end developer with back-end knowledge. I enjoy working in collaborative and innovative teams where I can continue learning and growing. I am creative and naturally curious. I love English and incorporate it into many aspects of my life. I am dedicated and bring quality to my work. Additionally, I have cultivated serenity and patience because experience has taught me that progress is achieved step by step. I am constantly seeking to improve myself and contribute to every project I undertake in a meaningful way.
 
-I have a big passion for design and I find programming a great way to combine both the logical, problem-solving part of the brain with the left hemisphere which is more about creativity, imagination and innovation. 
+🤓🫶🏽🌷I have a big passion for design and I find programming a great way to combine both the logical, problem-solving part of the brain with the left hemisphere which is more about creativity, imagination and innovation. 
 
-I am currently looking for a Web Developer position in a company that is building tech that is meaningful and impactful in collaborative thriving teams. 
+🔭 I am currently looking for a Web Developer position in a company that is building tech that is meaningful and impactful in collaborative thriving teams. 
 
 ## Working on 👩🏼‍💻 ##
 I am currently working on my own porfolio, finishing up projects I already created as well as embarking on my first solo after-bootcamp website, which I am so excited about! I care about creating a positive impact in the world and this website is all about that. I can't wait for you to see it! 
